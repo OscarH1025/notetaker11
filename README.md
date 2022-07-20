@@ -19,3 +19,22 @@ To use:
 - Press the save icon in the top right to save a note.
 - Press the red trash icon on an individual note to delete a note.
 - Press the '+' icon in the top right to add a new note.
+
+
+## [Questions]
+
+  Please contact me using the following links:
+
+  [GitHub](https://github.com/OscarH1025)
+
+  [Email: oscarhurtadosb@gmail.com](mailto:oscarhurtadosb@gmail.com)
+
+
+  ## [Questions]
+
+  Please contact me using the following links:
+
+  [GitHub](https://github.com/OscarH1025)
+
+  [Email: oscarhurtadosb@gmail.com](mailto:oscarhurtadosb@gmail.com)
+****
